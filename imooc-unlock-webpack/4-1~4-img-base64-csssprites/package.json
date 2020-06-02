@@ -1,0 +1,41 @@
+{
+  "name": "4-1~4-img-base64-csssprites",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "autoprefixer": "^9.4.2",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-lodash": "^3.3.4",
+    "css-loader": "^2.0.0",
+    "cssnano": "^4.1.7",
+    "file-loader": "^2.0.0",
+    "glob-all": "^3.1.0",
+    "imagemin": "^6.0.0",
+    "imagemin-pngquant": "^6.0.0",
+    "img-loader": "^3.0.1",
+    "imports-loader": "^0.8.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.10.0",
+    "postcss": "^7.0.6",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.4.0",
+    "postcss-sprites": "^4.2.1",
+    "purify-css": "^1.2.5",
+    "purifycss-webpack": "^0.7.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {}
+}

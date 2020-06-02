@@ -1,0 +1,28 @@
+p { font-size: 14px; padding: 20px; }
+.src-css-common_big-box_3JpWB {
+    border: 2px solid #f0ad4e;
+}
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+html {
+  background: "#fafafa";
+}
+.src-css-base_box_3WjJS {
+  height: 200px;
+  width: 200px;
+  border-radius: 4px;
+  /*border: 2px solid #1b6d85;*/
+  background: #faf2cc;
+}
+
+p {
+  font-size: 14px;
+  padding: 20px;
+}
+.src-css-common_big-box_3JpWB {
+  border: 2px solid #f0ad4e;
+}
+

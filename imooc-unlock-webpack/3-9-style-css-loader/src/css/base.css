@@ -1,0 +1,11 @@
+* { margin: 0; padding: 0; list-style:none;}
+html { background: #fafafa; }
+
+.box {
+    composes: big-box from "./common.css";
+    height: 200px;
+    width: 200px;
+    border-radius: 4px;
+    /*border: 2px solid #1b6d85;*/
+    background: #faf2cc;
+}

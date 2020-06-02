@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+html {
+  background: "#fafafa";
+}
+.src-css-base_box_3WjJS {
+  height: 100px;
+  width: 100px;
+  border-radius: 4px;
+  /*border: 2px solid #1b6d85;*/
+  background: #faf2cc;
+}
+.src-css-base_box_3WjJS:hover {
+  width: 300px;
+  height: 300px;
+  transition: width 1s linear, height 1s linear;
+}
+
+p {
+  font-size: 14px;
+  padding: 20px;
+}
+.src-css-common_big-box_3JpWB {
+  display: flex;
+  border: 2px solid #f0ad4e;
+}
+:root {
+  --mainColor: orange;
+}
+a {
+  color: orange;
+  color: var(--mainColor);
+}
+
