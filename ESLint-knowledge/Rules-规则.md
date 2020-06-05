@@ -1,8 +1,23 @@
-dmodule.exports = {
+# Rules 规则
+
+
+## Catalog
+1. 推荐规则
+
+
+
+## New Words
+
+
+
+
+## Content
+### 1. 推荐规则
+```json
     "env": {
-        "browser": true,
-        "node": true,
-        "commonjs": true
+            "browser": true,
+            "node": true,
+            "commonjs": true
     },
     "ecmaFeatures": {
         // lambda表达式
@@ -272,4 +287,5 @@ dmodule.exports = {
         "wrap-regex": 0,//正则表达式字面量用小括号包起来
         "yoda": [2, "never"]//禁止尤达条件
     }
-};
+  ```
+
